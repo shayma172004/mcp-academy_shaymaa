@@ -1,2 +1,16 @@
 # mcp-academy_shaymaa
-first step in my mcp learning journey with nextFlows Academy
+This repository contains my work and submissions for the NextFlows Academy
+Building an MCP for an AI Engine program.
+
+## my name 
+Shaymaa Dar Taha
+
+## Program
+
+Building an MCP for an AI Engine — Cohort 1
+
+## Progress
+
+- Week 1: Introduction to MCP
+- Git and GitHub setup
+- First MCP tool
