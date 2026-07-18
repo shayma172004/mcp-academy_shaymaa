@@ -3,12 +3,18 @@ This repository contains my work and submissions for the NextFlows Academy
 Building an MCP for an AI Engine program.
 exited to learn 
 
+academy email :
+info@nextflows.ai
+
 ## my name 
 Shaymaa Dar Taha
 
 ## Program
 
 Building an MCP for an AI Engine — Cohort 1
+
+## academy email 
+info@nextflows.ai
 
 ## Progress
 
