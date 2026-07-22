@@ -22,10 +22,11 @@ git clone https://github.com/shayma172004/mcp-academy_shaymaa.git
 
 3. Browse the weekly folders and follow the academy tasks.
 
-4. Update the repository regularly with new assignments, notes, and MCP projects.
+4. Run the MCP server projects following the instructions in each project folder.
 
 ## Progress
 
 -  Week 1: Introduction to MCP
 -  Git & GitHub Setup
--  First MCP Tool (Coming Soon)
+-  First MCP Server
+-  MCP Inspector Testing
