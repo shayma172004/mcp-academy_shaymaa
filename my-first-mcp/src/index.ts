@@ -70,5 +70,25 @@ server.registerTool(
     };
   }
 );
+server.registerTool(
+  "roll_dice",
+  {
+    title: "Roll Dice to Know How Much You Will Study",
+    description: "Rolls a dice and suggests today's study hours.",
+    inputSchema: z.object({}),
+  },
+  async () => {
+    const dice = Math.floor(Math.random() * 6) + 1;
+
+    return {
+      content: [
+        {
+          type: "text",
+          text: ` You rolled: ${dice}\nGood luck from shaimaa dar taha ! Try to study for ${dice} hour${dice > 1 ? "s" : ""} today.`
+        },
+      ],
+    };
+  }
+);
 const transport = new StdioServerTransport();
 await server.connect(transport);
